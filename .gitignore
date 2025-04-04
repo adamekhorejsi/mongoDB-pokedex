@@ -1,0 +1,5 @@
+/db/*.secret
+/src/vendor
+/src/cache
+/.idea
+/src/.env
